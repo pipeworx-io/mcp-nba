@@ -1,8 +1,8 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/nba",
-  "title": "nua",
-  "description": "NBA MCP — player, team, and game data via the BallDontLie API",
+  "title": "Nba",
+  "description": "NBA MCP \u2014 player, team, and game data via the BallDontLie API",
   "version": "0.1.0",
   "websiteUrl": "https://pipeworx.io/packs/nba",
   "repository": {
