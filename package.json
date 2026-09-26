@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-nba",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "NBA MCP — player, team, and game data via the BallDontLie API",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-769771fd1edef13cdc48400ff600094e1338c534f093088501b0cb631ed3f723",
-    "sourceCommit": "adb69d997f82a62e8e22b594488c7d04a227db35"
+    "sourceHash": "v1-cf8cb0b4f2b2ea827b8ab5d3626ee9627300aa15f5c31d7d5d6cb59f89af2052",
+    "sourceCommit": "6182c4cfebddb94950e060b5d2fca18f18ad1aca"
   }
 }
